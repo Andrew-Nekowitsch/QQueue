@@ -1,0 +1,15 @@
+:root {
+  background-color: rgba(0, 0, 0, 0);
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body, html, :root  {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+div#root {
+  height: 100%;
+  width: 100%;
+}

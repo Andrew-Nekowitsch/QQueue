@@ -1,0 +1,11 @@
+{
+  "name": "QQueue",
+  "description": "A simple Twitch extension",
+  "version": "1.0.0",
+  "main": "dist/panel.html",
+  "assets": {
+    "panel": "dist/panel.html",
+    "overlay": "dist/video_overlay.html",
+    "video_component": "dist/video_component.html"
+  }
+}
